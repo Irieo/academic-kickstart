@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Iegor Riepin
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student | research fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Brandenburg Technical University (BTU C-S)
+  url: "https://www.b-tu.de/en/fg-energiewirtschaft"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: sample text ?
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Energy systems modelling
+- Optimization theory
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in energy economics
+    institution: Brandenburg Technical University C-S
+    year: 10/2014 - present
+  - course: Master degree in power engineering
+    institution: Brandenburg Technical University C-S
+    year: 2014
+  - course: BSc in power engineering
+    institution: Zaporizhzhia State Engineering Academy, Ukraine
     year: 2008
 
 # Social/Academic Networking
@@ -44,16 +43,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'  # For a direct email link, use "mailto:iegor.riepin@b-tu.de".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Irieo
+- icon: university
+  icon_pack: fas
+  link: https://www.b-tu.de/en/fg-energiewirtschaft/team/research-assistant/iegor-riepin#c78058
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently pursuing my PhD at [] in []. Research interests []
