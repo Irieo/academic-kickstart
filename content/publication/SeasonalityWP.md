@@ -1,0 +1,83 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Seasonal Flexibility in the European Natural Gas Market"
+authors: ['admin', Felix Müsgens]
+date: 2019-08-21
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+#publishDate: 2020-XX-XX
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Cambridge Working Papers in Economics"
+publication_short: ""
+
+abstract: " The paper focuses on a seasonal demand swing in the European gas market. We quantify and compare the role of different flexibility options (domestic production, pipeline and LNG imports, and gas storages) in covering European demand fluctuations in monthly resolution. We contribute to the existing literature focusing on seasonal flexibility by addressing the problem with a mathematical gas market optimisation model. Empirically, our paper provides valuable insights with regard to declining North Western European gas production. Furthermore, we focus our discussion on specific flexibility features of pipeline versus LNG supplies and gas imports versus storage dispatch. In terms of methodology, we develop a bottom-up market optimisation model and publish the complete source code (which is still uncommon for gas market models). Furthermore, we propose a new metric based on the coefficient of variation to quantify the importance of supply sources for seasonal flexibility provision."
+
+# Summary. An optional shortened abstract.
+summary: ""
+
+tags: []
+categories: []
+featured: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+links:
+  - name: DOI
+    url: 'https://www.repository.cam.ac.uk/handle/1810/296881'
+    icon_pack: fas
+    icon: 
+  - name: Non-technical summary
+    url: 'https://eprgroup.wpengine.com/wp-content/uploads/2019/08/1931-NTS.pdf'
+    icon_pack: fas
+    icon: book
+  - name: Code
+    url: 'https://github.com/Irieo/SeasonalFlex'
+    icon_pack: fas
+    icon: code
+
+url_pdf: 
+url_code: 
+url_dataset:
+url_poster:
+url_project:
+url_slides:
+url_source:
+url_video:
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---

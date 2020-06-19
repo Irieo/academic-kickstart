@@ -1,0 +1,75 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Modelling of world LNG market development: focus on US investments and supplies"
+authors: [Roland Cunha Montenegro, 'admin', Philipp Hauser]
+date: 2018-06-09
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+#publishDate: 2020-XX-XX
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
+
+# Publication name and optional abbreviated publication name.
+publication: "IEEE 2016"
+publication_short: ""
+
+abstract: "The US production of unconventional gas has grown drastically in recent years and is proved to be a case of success. In former years the US imported natural gas in order to meet their high demand and, therefore, invested in LNG import terminals. Since then, production of shale gas is considered to have a potential to change the world natural gas market, as both scientific community and policy makers started to discuss a transition of the US from a net importer to a net exporter country by the year 2020. This change requires new natural gas infrastructure, as regasification capacity which was already built will not be utilized and new liquefaction investments are expected instead. This paper estimates the perspective of US natural gas infrastructure using the MCP approach, and indicates that, rather than Europe or China, the young markets in Asia, supplied mostly by LNG, will be the targets of the US exports."
+
+# Summary. An optional shortened abstract.
+summary: ""
+
+tags: []
+categories: []
+featured: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+links:
+  - name: DOI
+    url: 'https://doi.org/10.1109/EEM.2016.7521361'
+    icon_pack: fas
+    icon:
+
+url_pdf: 
+url_code: 
+url_dataset:
+url_poster:
+url_project:
+url_slides:
+url_source:
+url_video:
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
