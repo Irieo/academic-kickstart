@@ -18,7 +18,7 @@ organizations:
   url: "https://www.b-tu.de/en/fg-energiewirtschaft"
 
 # Short bio (displayed in user profile at end of posts)
-bio: sample text ?
+bio: BTU C-S
 
 interests:
 - Energy systems modelling
